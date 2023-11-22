@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-first-project-api",
+  "version": "1.0.0",
+  "description": "This is express project for my contacts backend api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kodjo Matthieu SENOU",
+  "license": "MIT"
+}
